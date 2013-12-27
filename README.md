@@ -1,4 +1,2 @@
-UX-Methodology
-==============
-
-This site represents a UX methodology I am currently trying out.
+# **README**
+# This is my README
